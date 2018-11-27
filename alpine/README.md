@@ -1,0 +1,2 @@
+this image is forked from `gitlab/gitlab-runner:alpine` which is an image with minimal footprint based on Alpine Linux that runs GitLab Runner.
+the origin image is lack of "gitlab-runner" user, this Dockerfile fixed it.
